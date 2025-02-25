@@ -7,3 +7,6 @@ Lista Colaboradores
 # New contribution on branch new-feat-1
 - [] New (DV)
 
+# New collaboration on branch new-feat-2
+- [] new-feat-2 branch (DV)
+
