@@ -1,3 +1,3 @@
 # pull_request
 Lista Colaboradores
-- [X] Edwin Ricardo
+- [X] Edwin Ricardo (DV)
